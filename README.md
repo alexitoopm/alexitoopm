@@ -33,7 +33,7 @@ Actualmente estoy centrado en:
 * 🖥️ Sistemas y administración de equipos
 * 🌐 Redes y servicios
 * 💻 Desarrollo de aplicaciones
-* 🤖 Inteligencia artificial
+* 🤖 Intentando Inteligencia artificial
 * 🔐 Ciberseguridad
 
 ---
@@ -44,11 +44,11 @@ Actualmente estoy centrado en:
 
 ### Lenguajes
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,bash" />
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
 
 ### Sistemas & herramientas
 
-<img src="https://skillicons.dev/icons?i=linux,windows,git,github,vscode,docker" />
+<img src="https://skillicons.dev/icons?i=linux,windows,git,github,vscode" />
 
 ### Bases de datos & otros
 
@@ -67,28 +67,6 @@ Allí puedes encontrar mis **proyectos, experimentos, trabajos y portfolio**, ad
 <div align="center">
 
 <a href="https://TU-WEB.com">→ Visitar mi web</a>
-
-</div>
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=alexitoopm&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexitoopm&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
----
-
-## 📈 Actividad
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alexitoopm&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 
 </div>
 
